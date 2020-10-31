@@ -1,2 +1,6 @@
-# part-timejobsApp
-兼职信息整合平台
+# Quick_Launch
+## PREFACE
+> 原 兼职整合APP , 项目失败暂停, 找个地方备份代码, 聊表纪念...
+> 
+> --2020.10.31
+
